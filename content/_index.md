@@ -1,20 +1,20 @@
 ---
-action_label: Read More &rarr;
-action_link: /about
-action_type: text
-description: Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic,
-  we wanted to create a polished Hugo theme with the right features for a true personal
-  website. We set out to create a theme that is a pleasure to learn, and one that
-  helps others get to know you better. It is more than a blog, with flexible custom
-  layouts that help you introduce yourself online.
-image_left: true
+title: Mo Amiri
+subtitle: Applied Statistics Master's Student @ Pennsylvania State University
+description: I am a Kinesiology & Health Science alumni, Applied Statistics master's student, and 
+  self-taught <i class="fab fa-r-project" aria-hidden="true" style="color:#123852"></i> programmer. 
+  Also, I do statistical work for a Haematology/Oncology Research Lab at The Hospital for Sick Children (SickKids) 
+  in Canada. My time is spent cleaning data, constructing statistical models, and 
+  building custom business tools such as packages and dashboards using R.
+text_align_left: true
 images:
-- img/revoir.jpg
+- img/homepage-pic-round.png
+image_left: true
+show_social_links: true # specify social accounts in site config
 show_action_link: true
-show_social_links: true
-subtitle: A Hugo theme you'll want to hang out with
-text_align_left: false
-title: Hugo Apéro
+action_link: /about
+action_label: Explore Latest Projects &rarr; # "Text <i class='fas fa-rocket' style="color:#123852"></i>"
+action_type: text # text, button
 type: home
 ---
 
