@@ -1,11 +1,11 @@
 ---
-cascade:
-  headless: true
+title: About
 description: |
-  A website template for Hugo developed by RStudio & Formspree and available for free.
+  Project website of Mo Amiri.
 show_header: true
 sidebar_left: false
-title: About
+cascade:
+  headless: true
 ---
 
 ** index doesn't contain a body, just front matter above.

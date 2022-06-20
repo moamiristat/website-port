@@ -3,10 +3,19 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Hugo Apéro. Nice to meet you.
+  Hello! It's nice to meet you.
 ---
 
 <!-- this is a subheadline -->
-I'm a Hugo theme you'll want to hang out with. :fr: 
+:wave: I am a Kinesiology & Health Science alumni, who probably (definitely) spent more time self-studying Mathematics than reading coursework during my undergraduate program. Currently, I am enrolled in the Master of Applied Statistics at Pennsylvania State University.
 
-The page you are reading is based on a markdown file- look in `content/about/` to edit. There, look inside the `header`, `main`, and `sidebar` folders to get started building your own "about" page.
+:briefcase: I am a volunteer Statistician for a Haematology/Oncology Research Lab at The Hospital for Sick Children (SickKids) in Canada. My research role includes the application of treatments for moderating the long-term outcomes of pediatric thrombosis. I have done freelance data analysis for small businesses. My choice of tool for cleaning, analyzing and modeling data is R.
+
+<i class="fas fa-graduation-cap pr2" style="color:#002845"></i>Master of Applied Statistics  &#8729;
+ Pennsylvania State University  &#8729;  Expected 2024
+
+<i class="fas fa-graduation-cap pr2" style="color:#002845"></i>BSc Kinesiology & Health Sciences w/ Special Honors  &#8729;
+ York University  &#8729;  2019
+
+<i class="fas fa-graduation-cap pr2" style="color:#002845"></i>Bachelor of Business Administration &#8729;
+    American University in Dubai  &#8729;  2015
