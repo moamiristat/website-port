@@ -32,7 +32,7 @@ enableEmoji = true
   orgName = "Mo Amiri"
   orgLocal = ""
   #description = "A modern, beautiful, and easily configurable blog theme for Hugo."
-  description = "Projects website of Mo Amiri"
+  description = "Project website of Mo Amiri"
   #favicon = "/img/favicon.ico"
   favicon = "/img/logo-box.ico"
   #logo = "/img/blogophonic-mark-dark.png"
@@ -45,7 +45,7 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/papillons.jpg"
+  sharing_image = "/img/mo-social.png"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   #twitter = "apreshill"
   
@@ -67,8 +67,8 @@ enableEmoji = true
   # if you import your own fonts, name them here too
   #customtextFontFamily = "Commissioner"
   #customheadingFontFamily = "Fraunces"
-  customtextFontFamily = ""
-  customheadingFontFamily = ""
+  customtextFontFamily = "Assistant"
+  customheadingFontFamily = "Overlock"
   # alternatively, leave empty and select basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
   #textFontFamily = "sans-serif"
@@ -136,14 +136,14 @@ enableEmoji = true
     weight = 1
   [[menu.header]]
     name = "Projects"
-    title = "R Dashboards & Packages"
+    title = "Built with R"
     url = "/project/"
-    weight = 2
+    weight = 3
   [[menu.header]]
     name = "Blog"
     title = "Applied Stats with R"
     url = "/blog/"
-    weight = 3
+    weight = 2
   [[menu.header]]
     name = "Learn"
     title = "Learn Stats with R"
