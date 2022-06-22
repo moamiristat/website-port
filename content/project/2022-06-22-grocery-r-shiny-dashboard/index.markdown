@@ -70,10 +70,10 @@ Here are some features that can be included for a more complex version of the Ap
 + Deploy App on Amazon Web Services, Digital Ocean or Heroku for better performance and security.
 
 ## R Packages Used
-*ui & server*: `shiny`, `shinyFeedback`, `grocerycart`, `bs4Dash`, `gt`, `plotly`, `visNetwork`, `reactable`, `reactablefmtr`, `ggplot2`, `dplyr`, `stringr`, `cohorts`, `arules`, `arulesViz`, `Matrix`, `recommenderlab`, `officer`, `lubridate`, `flextable`, `patchwork`, `fabricatr`, `wakefield`, `randomNames`, `charlatan`, `magrittr`, `purrr`.  
-[*basket_analysis.R*](https://github.com/moamiristat/grocery/blob/main/analysis/basket_analysis.R): `grocerycart`, `dplyr`, `lubridate`, `ggplot2`, `ggforce`, `gt`, `reactable`, `reactablefmtr`, `purrr`, `stringr`, `hrbrthemes`, `scales`.  
-[*eg_analysis.R*](https://github.com/moamiristat/grocery/blob/main/analysis/eg_analysis.R): `grocerycart`, `tidyverse`, `stringr`, `forcats`, `ggrepel`, `ggimage`, `ggbeeswarm`.  
-[*oc_analysis.R*](https://github.com/moamiristat/grocery/blob/main/analysis/oc_analysis.R): `grocerycart`, `tidyverse`, `stringr`, `reactable`, `gganimate`, `ggflags`, `ggimage`, `ggrepel`, `htmltools`, `hrbrthemes`, `scales`, `glue`.
+**ui & server**: `shiny`, `shinyFeedback`, `grocerycart`, `bs4Dash`, `gt`, `plotly`, `visNetwork`, `reactable`, `reactablefmtr`, `ggplot2`, `dplyr`, `stringr`, `cohorts`, `arules`, `arulesViz`, `Matrix`, `recommenderlab`, `officer`, `lubridate`, `flextable`, `patchwork`, `fabricatr`, `wakefield`, `randomNames`, `charlatan`, `magrittr`, `purrr`.  
+[**basket_analysis.R**](https://github.com/moamiristat/grocery/blob/main/analysis/basket_analysis.R): `grocerycart`, `dplyr`, `lubridate`, `ggplot2`, `ggforce`, `gt`, `reactable`, `reactablefmtr`, `purrr`, `stringr`, `hrbrthemes`, `scales`.  
+[**eg_analysis.R**](https://github.com/moamiristat/grocery/blob/main/analysis/eg_analysis.R): `grocerycart`, `tidyverse`, `stringr`, `forcats`, `ggrepel`, `ggimage`, `ggbeeswarm`.  
+[**oc_analysis.R**](https://github.com/moamiristat/grocery/blob/main/analysis/oc_analysis.R): `grocerycart`, `tidyverse`, `stringr`, `reactable`, `gganimate`, `ggflags`, `ggimage`, `ggrepel`, `htmltools`, `hrbrthemes`, `scales`, `glue`.
 
 ## Run App Locally
 To download and run the app directly on your machine (i.e.,local R session), run the following code:
