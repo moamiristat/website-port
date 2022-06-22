@@ -20,3 +20,24 @@ $buttonBgColorCustom: #123852; // button background
 $buttonHoverBgColorCustom: mix(#A23E02, #FFFFFF, 85); // button background hover
 
 $borderColorCustom: #123852; // border bars
+
+code {
+  // color: #E6E6DD; // AC5624, C9965C
+  background-color: #323132;
+  font-size: 0.9em;
+  //padding: 1px 2px;
+  border-radius: 6px;
+}
+
+pre {
+  border: 1px solid #323132; 
+  box-shadow: 1px 1px 1px 1px #E6E6DD;
+  padding: 0.25em;
+  background: #323132;
+  overflow-x: auto;
+  border-radius: 6px; 
+  code {
+    background: none;
+    font-size: 0.8rem;
+  }
+}
