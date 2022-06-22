@@ -13,7 +13,7 @@ show_post_date: false
 layout: list # list, list-sidebar, list-grid
 
 cascade:
-# layout: single-series
+  layout: single
   sidebar:
     author: Mo Amiri
     description: ""
