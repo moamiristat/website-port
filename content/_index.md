@@ -8,7 +8,7 @@ description: I am a Kinesiology & Health Science alumni, Applied Statistics mast
   building custom business tools such as packages and dashboards using R.
 text_align_left: true
 images:
-- img/homepage-pic-round.png
+- img/homepage-sketch-round.svg
 image_left: true
 show_social_links: true # specify social accounts in site config
 show_action_link: true
